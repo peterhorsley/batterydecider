@@ -2,7 +2,7 @@
 Uses Enphase Enlighten API to help decision around battery storage.
 
 # How to use
-Build in Visual Studio and run BatteryDecider.exe from a terminal to view help.
+Download the latest release (or build in Visual Studio) and run BatteryDecider.exe from a terminal to view help.
 
 This program queries the Enphase API for a given solar system and
 retrieves production and consumption data for a specifed date range.
